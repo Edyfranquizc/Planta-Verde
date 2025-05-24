@@ -24,7 +24,7 @@ const Galeria = () => {
             <div className="categorias-grid">
             <div className="categoria-card grande">
                 <div className="categoria-imagen">
-                <img src="/public/assets/calathea-orbifolia.png" alt="Plantas de Interior" />
+                <img src="/assets/calathea-orbifolia.png" alt="Plantas de Interior" />
                 </div>
                 <div className="categoria-info">
                 <h3>Plantas de Interior</h3>
@@ -37,7 +37,7 @@ const Galeria = () => {
             
             <div className="categoria-card">
                 <div className="categoria-imagen">
-                <img src="/public/assets/salvia.png" alt="Plantas de Exterior" />
+                <img src="/assets/salvia.png" alt="Plantas de Exterior" />
                 </div>
                 <div className="categoria-info">
                 <h3>Plantas de Exterior</h3>
@@ -49,7 +49,7 @@ const Galeria = () => {
             
             <div className="categoria-card">
                 <div className="categoria-imagen">
-                <img src="/public/assets/suculenta-echeveria.png" alt="Suculentas" />
+                <img src="/assets/suculenta-echeveria.png" alt="Suculentas" />
                 </div>
                 <div className="categoria-info">
                 <h3>Suculentas</h3>

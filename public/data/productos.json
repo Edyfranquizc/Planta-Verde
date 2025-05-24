@@ -5,7 +5,7 @@
         "categoria": "interior",
         "precio": 59999,
         "descuento": 0,
-        "imagen": "/public/assets/montera-deliciosa.png",
+        "imagen": "/assets/montera-deliciosa.png",
         "puntuacion": 4.5,
         "destacado": true
     },
@@ -15,7 +15,7 @@
         "categoria": "interior",
         "precio": 49999,
         "descuento": 10,
-        "imagen": "/public/assets/Ficus-Lyrata.png",
+        "imagen": "/assets/Ficus-Lyrata.png",
         "puntuacion": 4.8,
         "destacado": true
     },
@@ -25,7 +25,7 @@
         "categoria": "interior",
         "precio": 39999,
         "descuento": 0,
-        "imagen": "/public/assets/calathea-orbifolia.png",
+        "imagen": "/assets/calathea-orbifolia.png",
         "puntuacion": 4.8,
         "destacado": true
     },
@@ -35,7 +35,7 @@
         "categoria": "suculentas",
         "precio": 18999,
         "descuento": 0,
-        "imagen": "/public/assets/suculenta-echeveria.png",
+        "imagen": "/assets/suculenta-echeveria.png",
         "puntuacion": 4.5,
         "destacado": false
     },
@@ -45,7 +45,7 @@
         "categoria": "interior",
         "precio": 29999,
         "descuento": 0,
-        "imagen": "/public/assets/lengua-de-suegra.png",
+        "imagen": "/assets/lengua-de-suegra.png",
         "puntuacion": 4.5,
         "destacado": true
     },
@@ -55,7 +55,7 @@
         "categoria": "interior",
         "precio": 49999,
         "descuento": 10,
-        "imagen": "/public/assets/aloe-vera.png",
+        "imagen": "/assets/aloe-vera.png",
         "puntuacion": 4.2,
         "destacado": false
     },
@@ -65,7 +65,7 @@
         "categoria": "exterior",
         "precio": 39999,
         "descuento": 5,
-        "imagen": "/public/assets/lavanda.png",
+        "imagen": "/assets/lavanda.png",
         "puntuacion": 4.8,
         "destacado": true
     },
@@ -75,7 +75,7 @@
         "categoria": "exterior",
         "precio": 39999,
         "descuento": 5,
-        "imagen": "/public/assets/san-pedro.png",
+        "imagen": "/assets/san-pedro.png",
         "puntuacion": 4.2,
         "destacado": false
     }, {
@@ -84,7 +84,7 @@
         "categoria": "exterior",
         "precio": 39999,
         "descuento": 10,
-        "imagen": "/public/assets/salvia.png",
+        "imagen": "/assets/salvia.png",
         "puntuacion": 4.5,
         "destacado": false
     },
@@ -94,7 +94,7 @@
         "categoria": "suculentas",
         "precio": 15999,
         "descuento": 15,
-        "imagen": "/public/assets/suculenta-sedumburrito.png",
+        "imagen": "/assets/suculenta-sedumburrito.png",
         "puntuacion": 4.0,
         "destacado": false
     },
@@ -104,7 +104,7 @@
         "categoria": "suculentas",
         "precio": 20999,
         "descuento": 0,
-        "imagen": "/public/assets/suculenta-arboljade.png",
+        "imagen": "/assets/suculenta-arboljade.png",
         "puntuacion": 4.8,
         "destacado": true
     },
@@ -114,7 +114,7 @@
         "categoria": "interior",
         "precio": 35999,
         "descuento": 15,
-        "imagen": "/public/assets/beginia-maculata.png",
+        "imagen": "/assets/beginia-maculata.png",
         "puntuacion": 4.5,
         "destacado": false
     }

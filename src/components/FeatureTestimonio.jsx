@@ -54,7 +54,7 @@ const FeatureTestimonio = () => {
                     </p>
                     <div className="testimonial-author">
                     <div className="author-avatar">
-                        <img src="/public/assets/avatar-ana.png" alt="Ana M." />
+                        <img src="/assets/avatar-ana.png" alt="Ana M." />
                     </div>
                     <div className="author-info">
                         <h4>Ana M.</h4>
@@ -70,7 +70,7 @@ const FeatureTestimonio = () => {
                     </p>
                     <div className="testimonial-author">
                     <div className="author-avatar">
-                        <img src="/public/assets/avatar-carlos.png" alt="Carlos R." />
+                        <img src="/assets/avatar-carlos.png" alt="Carlos R." />
                     </div>
                     <div className="author-info">
                         <h4>Carlos R.</h4>
@@ -86,7 +86,7 @@ const FeatureTestimonio = () => {
                     </p>
                     <div className="testimonial-author">
                     <div className="author-avatar">
-                        <img src="/public/assets/avatar-laura.png" alt="Laura S." />
+                        <img src="/assets/avatar-laura.png" alt="Laura S." />
                     </div>
                     <div className="author-info">
                         <h4>Laura S.</h4>

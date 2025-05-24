@@ -30,7 +30,7 @@ const Footer = () => {
                 </a>
             </div>
             <br />
-                <img src="/public/assets/medios-de-pagos-img.avif" alt="medios de pago" />
+                <img src="/assets/medios-de-pagos-img.avif" alt="medios de pago" />
             </div>
 
             <div className="footer-section">
