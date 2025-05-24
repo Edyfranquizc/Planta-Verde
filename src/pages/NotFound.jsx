@@ -1,12 +1,11 @@
 // src/pages/NotFound.jsx
 import React from 'react';
 import { Link } from 'react-router-dom';
-import cactusImg from '../assets/imagen404.png'; 
 
 const NotFound = () => (
     <div style={{ textAlign: 'center', padding: '100px' }}>
         <img
-        src={cactusImg}
+        src="/public/assets/imagen404.png"
         alt="Cactus 404"
         style={{ maxWidth: '400px', width: '90%', marginBottom: '2rem' }}
         />

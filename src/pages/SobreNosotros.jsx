@@ -18,7 +18,7 @@ const SobreNosotros = () => {
             <div className="container">
             <div className="nosotros-contenido">
                 <div className="nosotros-imagen">
-                <img src="/src/assets/Ficus-Lyrata.png" alt="Equipo PlantaVerde" />
+                <img src="/public/assets/Ficus-Lyrata.png" alt="Equipo PlantaVerde" />
                 </div>
                 <div className="nosotros-texto">
                 <h2>Nuestra Historia</h2>
@@ -81,21 +81,21 @@ const SobreNosotros = () => {
             <div className="equipo-grid">
                 <div className="miembro-equipo">
                 <div className="imagen-miembro">
-                    <img src="/src/assets/avatar-patricia.png" alt="Miembro del equipo" />
+                    <img src="/public/assets/avatar-patricia.png" alt="Miembro del equipo" />
                 </div>
                 <h3>Patricia Gutiérrez</h3>
                 <p>Fundadora & Botánica</p>
                 </div>
                 <div className="miembro-equipo">
                 <div className="imagen-miembro">
-                    <img src="/src/assets/avatar-gabriela.png" alt="Miembro del equipo" />
+                    <img src="/public/assets/avatar-gabriela.png" alt="Miembro del equipo" />
                 </div>
                 <h3>Gabriela Fernandez</h3>
                 <p>Especialista en Plantas</p>
                 </div>
                 <div className="miembro-equipo">
                 <div className="imagen-miembro">
-                    <img src="/src/assets/avatar-fabian.png" alt="Miembro del equipo" />
+                    <img src="/public/assets/avatar-fabian.png" alt="Miembro del equipo" />
                 </div>
                 <h3>Fabian Rodríguez</h3>
                 <p>Diseño & Atención al Cliente</p>
