@@ -1,0 +1,69 @@
+/* index.css */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap');
+
+:root {
+  /* Definimos nuestras variables de color */
+  --color-primary: #007f57;
+  --color-secondary: #669c82;
+  --color-tertiary-1: #effdf5;
+  --color-tertiary-2: #deb887;
+  --color-tertiary-3: #4CAF50;
+  --color-tertiary-4: #666;
+  --color-tertiary-5: #a0a0a0;
+  --color-tertiary-6: #e74c3c;
+  --color-tertiary-7: #f39c12;
+  --color-text: #333333;
+  --color-light: #ffffff;
+  --spacing-xs: 0.5rem;
+  --spacing-sm: 1rem;
+  --spacing-md: 1.5rem;
+  --spacing-lg: 2rem;
+  --spacing-xl: 3rem;
+  --border-radius: 8px;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Poppins', sans-serif;
+  background-color: var(--color-tertiary-1);
+  color: var(--color-text);
+  line-height: 1.6;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: 500;
+  line-height: 1.2;
+  margin-bottom: var(--spacing-sm);
+}
+
+a {
+  text-decoration: none;
+  color: var(--color-primary);
+  transition: color 0.3s ease;
+}
+
+a:hover {
+  color: var(--color-secondary);
+}
+
+button {
+  cursor: pointer;
+  font-family: 'Poppins', sans-serif;
+}
+
+.container {
+  width: 90%;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: var(--spacing-md) 0;
+}

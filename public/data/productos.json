@@ -1,0 +1,121 @@
+[
+    {
+        "id": 1,
+        "nombre": "Monstera Deliciosa",
+        "categoria": "interior",
+        "precio": 59999,
+        "descuento": 0,
+        "imagen": "/src/assets/montera-deliciosa.png",
+        "puntuacion": 4.5,
+        "destacado": true
+    },
+    {
+        "id": 2,
+        "nombre": "Ficus Lyrata",
+        "categoria": "interior",
+        "precio": 49999,
+        "descuento": 10,
+        "imagen": "/src/assets/Ficus-Lyrata.png",
+        "puntuacion": 4.8,
+        "destacado": true
+    },
+    {
+        "id": 3,
+        "nombre": "Calathea Orbifolia",
+        "categoria": "interior",
+        "precio": 39999,
+        "descuento": 0,
+        "imagen": "/src/assets/calathea-orbifolia.png",
+        "puntuacion": 4.8,
+        "destacado": true
+    },
+    {
+        "id": 4,
+        "nombre": "Suculenta Echeveria",
+        "categoria": "suculentas",
+        "precio": 18999,
+        "descuento": 0,
+        "imagen": "/src/assets/suculenta-echeveria.png",
+        "puntuacion": 4.5,
+        "destacado": false
+    },
+    {
+        "id": 5,
+        "nombre": "Lengua de suegra",
+        "categoria": "interior",
+        "precio": 29999,
+        "descuento": 0,
+        "imagen": "/src/assets/lengua-de-suegra.png",
+        "puntuacion": 4.5,
+        "destacado": true
+    },
+    {
+        "id": 6,
+        "nombre": "Aloe vera",
+        "categoria": "interior",
+        "precio": 49999,
+        "descuento": 10,
+        "imagen": "/src/assets/aloe-vera.png",
+        "puntuacion": 4.2,
+        "destacado": false
+    },
+    {
+        "id": 7,
+        "nombre": "Lavanda",
+        "categoria": "exterior",
+        "precio": 39999,
+        "descuento": 5,
+        "imagen": "/src/assets/lavanda.png",
+        "puntuacion": 4.8,
+        "destacado": true
+    },
+    {
+        "id": 8,
+        "nombre": "San Pedro",
+        "categoria": "exterior",
+        "precio": 39999,
+        "descuento": 5,
+        "imagen": "/src/assets/san-pedro.png",
+        "puntuacion": 4.2,
+        "destacado": false
+    }, {
+        "id": 9,
+        "nombre": "Salvia",
+        "categoria": "exterior",
+        "precio": 39999,
+        "descuento": 10,
+        "imagen": "/src/assets/salvia.png",
+        "puntuacion": 4.5,
+        "destacado": false
+    },
+    {
+        "id": 10,
+        "nombre": "Suculenta Sedum Burrito",
+        "categoria": "suculentas",
+        "precio": 15999,
+        "descuento": 15,
+        "imagen": "/src/assets/suculenta-sedumburrito.png",
+        "puntuacion": 4.0,
+        "destacado": false
+    },
+    {
+        "id": 11,
+        "nombre": "Suculenta Árbol de Jade",
+        "categoria": "suculentas",
+        "precio": 20999,
+        "descuento": 0,
+        "imagen": "/src/assets/suculenta-arboljade.png",
+        "puntuacion": 4.8,
+        "destacado": true
+    },
+    {
+        "id": 12,
+        "nombre": "Begonia Maculata",
+        "categoria": "interior",
+        "precio": 35999,
+        "descuento": 15,
+        "imagen": "/src/assets/beginia-maculata.png",
+        "puntuacion": 4.5,
+        "destacado": false
+    }
+]
