@@ -5,7 +5,7 @@ import { Link } from 'react-router-dom';
 const NotFound = () => (
     <div style={{ textAlign: 'center', padding: '100px' }}>
         <img
-        src="/public/assets/imagen404.png"
+        src="/assets/imagen404.png"
         alt="Cactus 404"
         style={{ maxWidth: '400px', width: '90%', marginBottom: '2rem' }}
         />

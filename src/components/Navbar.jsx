@@ -6,7 +6,7 @@ function Navbar({ menuOpen }) {
     <nav className={`nav ${menuOpen ? 'open' : ''}`}>
       <ul className="nav-list">
         <li className="nav-item">
-          <Link to="/" className="nav-link">Inicio</Link>
+          <Link to="/" className="nav-link" >Inicio</Link>
         </li>
         <li className="nav-item">
           <Link to="/SobreNosotros" className="nav-link">Sobre Nosotros</Link>
