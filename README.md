@@ -21,8 +21,6 @@ Todo acompañado de modales interactivos y animaciones amigables 🪄
 
 🔍 Filtros y búsqueda:
 
-Buscá productos por nombre
-
 Filtrá por categorías con solo un clic
 
 📦 Detalle del producto:
@@ -78,3 +76,8 @@ La interfaz fue pensada para que sea simple, accesible y visualmente clara, con 
 Este proyecto fue creado con mucho amor por las plantas y el código 🌿💻
 
 Hecho como proyecto final de curso React.js con dedicación y muchas ganas 🌱
+
+📡 Deployment
+
+🚀 El proyecto está desplegado en Vercel:  
+ 👉🏽 https://planta-verde.vercel.app/
